@@ -1,0 +1,25 @@
+body {
+	background-image: url("../image/background.jpeg");
+	background-size: 100%;
+	min-height: 90%;
+	font-family: sans-serif;
+}
+.title{
+	margin-top: 10px;
+}
+h3 {
+	text-align: center;
+	margin-top: 5px;
+}
+.main_form {
+	margin-left: 70px;
+    max-width: 90%;
+    min-height: 400px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 20px 0 #e8eaf2;
+    padding: 40px;
+    box-sizing: border-box;
+    position: relative;
+    background-color: #fff;
+    display: block;
+}
